@@ -1,5 +1,6 @@
 # Zerodha_Clone_Project
 As practice, I tried building a clone of a Stock Exchange Platform- Zerodha. I used React for the frontend and react-router-dom for navigating. This project has another two parts dashboard and backend. In dashboard users can watch their stocks information.
+
 ## Installation
 1. **Clone this repository.**
 ```bash
@@ -91,4 +92,6 @@ TOKEN_KEY=set_as_your_wish_or_generate_from_any_JWT_token_generator
 ```bash
 npm start
 ```
------------------------------------------------------------------THANK YOU------------------------------------------------------------------------------
+> ** ⚠️Note:**
+> I have not included node_modules in this project as it'll be automatically downloaded with npm install cmd.
+-THANK YOU
