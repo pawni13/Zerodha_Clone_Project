@@ -25,6 +25,7 @@ REACT_APP_DASHBOARD_URL="http://localhost:3001"
 > - Start the frontend first, so that it can run on port 3000 and then dashboard will automatically be on port 3002.
 > - All the 3 folders (frontend, backend & dashboard) should be in a single folder.
 # Screenshots
+![Home Screenshots](./Screenshots/Screenshot(206).png)
 # Zerodha Clone (Dashboard)
 It's another part of Zerodha clone. After logging in, users can see current stocks in the left side and can buy any stock, that is the watchlist. On the right part users can see their own stocks price. These data is coming from database. These data can become dynamic by adding live data providing APIS. Users can also see their stock conditions by the following chart and can understand better. Doughnut and bar chart has been used here.
 
