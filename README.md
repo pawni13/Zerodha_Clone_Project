@@ -76,6 +76,14 @@ npm install
 ```bash
 npm start
 ```
+# Screenshots
+## Dashboard
+<img src="./screenshots/dashboard.png" alt="Home Screenshot" width="400"/>    <img src="./screenshots/dashboard2.png" alt="Home Scree" width="400"/>
+
+<img src="./screenshots/dashboard3.png" alt="Home Screenshot" width="400"/>    <img src="./screenshots/dashboard4.png" alt="Home Screenshot" width="400"/>
+
+<img src="./screenshots/dashboard5.png" alt="Home Screenshot" width="400"/>    
+
 
 # Zerodha Clone (Backend)
 This is the backend of the Zerodha clone. This backend API manages CRUD(Create, Read, Update, Delete) operations both the frontend and dashboard. It handles the interactions of dashboard and frontend with database. It looks after the user authentication by JSON Webtoken and handles user sigup and login.
